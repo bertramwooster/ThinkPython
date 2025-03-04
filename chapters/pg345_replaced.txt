@@ -39,10 +39,10 @@
 
 Contents
 
-CHAPTER I. Jonathan Harker’s Journal
-CHAPTER II. Jonathan Harker’s Journal
-CHAPTER III. Jonathan Harker’s Journal
-CHAPTER IV. Jonathan Harker’s Journal
+CHAPTER I. Thomas Harker’s Journal
+CHAPTER II. Thomas Harker’s Journal
+CHAPTER III. Thomas Harker’s Journal
+CHAPTER IV. Thomas Harker’s Journal
 CHAPTER V. Letters—Lucy and Mina
 CHAPTER VI. Mina Murray’s Journal
 CHAPTER VII. Cutting from “The Dailygraph,” 8 August
@@ -57,10 +57,10 @@ CHAPTER XV. Dr. Seward’s Diary
 CHAPTER XVI. Dr. Seward’s Diary
 CHAPTER XVII. Dr. Seward’s Diary
 CHAPTER XVIII. Dr. Seward’s Diary
-CHAPTER XIX. Jonathan Harker’s Journal
-CHAPTER XX. Jonathan Harker’s Journal
+CHAPTER XIX. Thomas Harker’s Journal
+CHAPTER XX. Thomas Harker’s Journal
 CHAPTER XXI. Dr. Seward’s Diary
-CHAPTER XXII. Jonathan Harker’s Journal
+CHAPTER XXII. Thomas Harker’s Journal
 CHAPTER XXIII. Dr. Seward’s Diary
 CHAPTER XXIV. Dr. Seward’s Phonograph Diary, spoken by Van Helsing
 CHAPTER XXV. Dr. Seward’s Diary
@@ -195,7 +195,7 @@ evidently expected, for when I got near the door I faced a
 cheery-looking elderly woman in the usual peasant dress--white
 undergarment with long double apron, front, and back, of coloured stuff
 fitting almost too tight for modesty. When I came close she bowed and
-said, “The Herr Englishman?” “Yes,” I said, “Jonathan Harker.” She
+said, “The Herr Englishman?” “Yes,” I said, “Thomas Harker.” She
 smiled, and gave some message to an elderly man in white shirt-sleeves,
 who had followed her to the door. He went, but immediately returned with
 a letter:--
@@ -931,9 +931,9 @@ subject of the neighbourhood, for he evidently at the end knew very much
 more than I did. When I remarked this, he answered:--
 
 “Well, but, my friend, is it not needful that I should? When I go there
-I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I
+I shall be all alone, and my friend Harker Thomas--nay, pardon me, I
 fall into my country’s habit of putting your patronymic first--my friend
-Jonathan Harker will not be by my side to correct and aid me. He will be
+Thomas Harker will not be by my side to correct and aid me. He will be
 in Exeter, miles away, probably working at papers of the law with my
 other friend, Peter Hawkins. So!”
 
@@ -2176,9 +2176,9 @@ _Letter from Miss Mina Murray to Miss Lucy Westenra._
 with work. The life of an assistant schoolmistress is sometimes trying.
 I am longing to be with you, and by the sea, where we can talk together
 freely and build our castles in the air. I have been working very hard
-lately, because I want to keep up with Jonathan’s studies, and I have
+lately, because I want to keep up with Thomas’s studies, and I have
 been practising shorthand very assiduously. When we are married I shall
-be able to be useful to Jonathan, and if I can stenograph well enough I
+be able to be useful to Thomas, and if I can stenograph well enough I
 can take down what he wants to say in this way and write it out for
 him on the typewriter, at which also I am practising very hard. He
 and I sometimes write letters in shorthand, and he is keeping a
@@ -2187,16 +2187,16 @@ shall keep a diary in the same way. I don’t mean one of those
 two-pages-to-the-week-with-Sunday-squeezed-in-a-corner diaries, but a
 sort of journal which I can write in whenever I feel inclined. I do not
 suppose there will be much of interest to other people; but it is not
-intended for them. I may show it to Jonathan some day if there is in it
+intended for them. I may show it to Thomas some day if there is in it
 anything worth sharing, but it is really an exercise book. I shall try
 to do what I see lady journalists do: interviewing and writing
 descriptions and trying to remember conversations. I am told that, with
 a little practice, one can remember all that goes on or that one hears
 said during a day. However, we shall see. I will tell you of my little
-plans when we meet. I have just had a few hurried lines from Jonathan
+plans when we meet. I have just had a few hurried lines from Thomas
 from Transylvania. He is well, and will be returning in about a week. I
 am longing to hear all his news. It must be so nice to see strange
-countries. I wonder if we--I mean Jonathan and I--shall ever see them
+countries. I wonder if we--I mean Thomas and I--shall ever see them
 together. There is the ten o’clock bell ringing. Good-bye.
 
 “Your loving
@@ -2226,7 +2226,7 @@ last Pop. Some one has evidently been telling tales. That was Mr.
 Holmwood. He often comes to see us, and he and mamma get on very well
 together; they have so many things to talk about in common. We met some
 time ago a man that would just _do for you_, if you were not already
-engaged to Jonathan. He is an excellent _parti_, being handsome, well
+engaged to Thomas. He is an excellent _parti_, being handsome, well
 off, and of good birth. He is a doctor and really clever. Just fancy! He
 is only nine-and-twenty, and he has an immense lunatic asylum all under
 his own care. Mr. Holmwood introduced him to me, and he called here to
@@ -2283,7 +2283,7 @@ and slighted if in their very first day at home they did not get six at
 least. Some girls are so vain! You and I, Mina dear, who are engaged and
 are going to settle down soon soberly into old married women, can
 despise vanity. Well, I must tell you about the three, but you must keep
-it a secret, dear, from _every one_, except, of course, Jonathan. You
+it a secret, dear, from _every one_, except, of course, Thomas. You
 will tell him, because I would, if I were in your place, certainly tell
 Arthur. A woman ought to tell her husband everything--don’t you think
 so, dear?--and I must be fair. Men like women, certainly their wives, to
@@ -2731,12 +2731,12 @@ he hobbled.
 Lucy and I sat awhile, and it was all so beautiful before us that we
 took hands as we sat; and she told me all over again about Arthur and
 their coming marriage. That made me just a little heart-sick, for I
-haven’t heard from Jonathan for a whole month.
+haven’t heard from Thomas for a whole month.
 
        *       *       *       *       *
 
 _The same day._ I came up here alone, for I am very sad. There was no
-letter for me. I hope there cannot be anything the matter with Jonathan.
+letter for me. I hope there cannot be anything the matter with Thomas.
 The clock has just struck nine. I see the lights scattered all over the
 town, sometimes in rows where the streets are, and sometimes singly;
 they run right up the Esk and die away in the curve of the valley. To my
@@ -2746,7 +2746,7 @@ me, and there is a clatter of a donkey’s hoofs up the paved road below.
 The band on the pier is playing a harsh waltz in good time, and further
 along the quay there is a Salvation Army meeting in a back street.
 Neither of the bands hears the other, but up here I hear and see them
-both. I wonder where Jonathan is and if he is thinking of me! I wish he
+both. I wonder where Thomas is and if he is thinking of me! I wish he
 were here.
 
 
@@ -2905,12 +2905,12 @@ _Mina Murray’s Journal._
 _26 July._--I am anxious, and it soothes me to express myself here; it
 is like whispering to one’s self and listening at the same time. And
 there is also something about the shorthand symbols that makes it
-different from writing. I am unhappy about Lucy and about Jonathan. I
-had not heard from Jonathan for some time, and was very concerned; but
+different from writing. I am unhappy about Lucy and about Thomas. I
+had not heard from Thomas for some time, and was very concerned; but
 yesterday dear Mr. Hawkins, who is always so kind, sent me a letter from
 him. I had written asking him if he had heard, and he said the enclosed
 had just been received. It is only a line dated from Castle Dracula,
-and says that he is just starting for home. That is not like Jonathan;
+and says that he is just starting for home. That is not like Thomas;
 I do not understand it, and it makes me uneasy. Then, too, Lucy,
 although she is so well, has lately taken to her old habit of walking in
 her sleep. Her mother has spoken to me about it, and we have decided
@@ -2922,7 +2922,7 @@ naturally anxious about Lucy, and she tells me that her husband, Lucy’s
 father, had the same habit; that he would get up in the night and dress
 himself and go out, if he were not stopped. Lucy is to be married in the
 autumn, and she is already planning out her dresses and how her house is
-to be arranged. I sympathise with her, for I do the same, only Jonathan
+to be arranged. I sympathise with her, for I do the same, only Thomas
 and I will start in life in a very simple way, and shall have to try to
 make both ends meet. Mr. Holmwood--he is the Hon. Arthur Holmwood, only
 son of Lord Godalming--is coming up here very shortly--as soon as he can
@@ -2934,7 +2934,7 @@ arrives.
 
        *       *       *       *       *
 
-_27 July._--No news from Jonathan. I am getting quite uneasy about him,
+_27 July._--No news from Thomas. I am getting quite uneasy about him,
 though why I should I do not know; but I do wish that he would write, if
 it were only a single line. Lucy walks more than ever, and each night I
 am awakened by her moving about the room. Fortunately, the weather is so
@@ -2949,7 +2949,7 @@ all last.
 
        *       *       *       *       *
 
-_3 August._--Another week gone, and no news from Jonathan, not even to
+_3 August._--Another week gone, and no news from Thomas, not even to
 Mr. Hawkins, from whom I have heard. Oh, I do hope he is not ill. He
 surely would have written. I look at that last letter of his, but
 somehow it does not satisfy me. It does not read like him, and yet it is
@@ -2961,7 +2961,7 @@ searching for the key.
 
 _6 August._--Another three days, and no news. This suspense is getting
 dreadful. If I only knew where to write to or where to go to, I should
-feel easier; but no one has heard a word of Jonathan since that last
+feel easier; but no one has heard a word of Thomas since that last
 letter. I must only pray to God for patience. Lucy is more excitable
 than ever, but is otherwise well. Last night was very threatening, and
 the fishermen say that we are in for a storm. I must try to watch it and
@@ -3519,7 +3519,7 @@ and though the sun was bright, and the air clear and fresh, the big,
 grim-looking waves, that seemed dark themselves because the foam that
 topped them was like snow, forced themselves in through the narrow mouth
 of the harbour--like a bullying man going through a crowd. Somehow I
-felt glad that Jonathan was not on the sea last night, but on land. But,
+felt glad that Thomas was not on the sea last night, but on land. But,
 oh, is he on land or sea? Where is he, and how? I am getting fearfully
 anxious about him. If I only knew what to do, and could do anything!
 
@@ -3609,7 +3609,7 @@ accept; she will do the proposing herself. And a nice job she will make
 of it, too! There’s some consolation in that. I am so happy to-night,
 because dear Lucy seems better. I really believe she has turned the
 corner, and that we are over her troubles with dreaming. I should be
-quite happy if I only knew if Jonathan.... God bless and keep him.
+quite happy if I only knew if Thomas.... God bless and keep him.
 
        *       *       *       *       *
 
@@ -3746,7 +3746,7 @@ sun bright, and there was a cool breeze. We took our lunch to Mulgrave
 Woods, Mrs. Westenra driving by the road and Lucy and I walking by the
 cliff-path and joining her at the gate. I felt a little sad myself, for
 I could not but feel how _absolutely_ happy it would have been had
-Jonathan been with me. But there! I must only be patient. In the evening
+Thomas been with me. But there! I must only be patient. In the evening
 we strolled in the Casino Terrace, and heard some good music by Spohr
 and Mackenzie, and went to bed early. Lucy seems more restful than she
 has been for some time, and fell asleep at once. I shall lock the door
@@ -3763,7 +3763,7 @@ chirping outside of the window. Lucy woke, too, and, I was glad to see,
 was even better than on the previous morning. All her old gaiety of
 manner seemed to have come back, and she came and snuggled in beside me
 and told me all about Arthur. I told her how anxious I was about
-Jonathan, and then she tried to comfort me. Well, she succeeded
+Thomas, and then she tried to comfort me. Well, she succeeded
 somewhat, for, though sympathy can’t alter facts, it can help to make
 them more bearable.
 
@@ -3812,7 +3812,7 @@ was thinking of that terrible night up there. We never refer to it; so I
 said nothing, and we went home to dinner. Lucy had a headache and went
 early to bed. I saw her asleep, and went out for a little stroll myself;
 I walked along the cliffs to the westward, and was full of sweet
-sadness, for I was thinking of Jonathan. When coming home--it was then
+sadness, for I was thinking of Thomas. When coming home--it was then
 bright moonlight, so bright that, though the front of our part of the
 Crescent was in shadow, everything could be well seen--I threw a glance
 up at our window, and saw Lucy’s head leaning out. I thought that
@@ -3854,7 +3854,7 @@ the dreadful night of Lucy’s sleep-walking.
 
 _17 August._--No diary for two whole days. I have not had the heart to
 write. Some sort of shadowy pall seems to be coming over our happiness.
-No news from Jonathan, and Lucy seems to be growing weaker, whilst her
+No news from Thomas, and Lucy seems to be growing weaker, whilst her
 mother’s hours are numbering to a close. I do not understand Lucy’s
 fading away as she is doing. She eats well and sleeps well, and enjoys
 the fresh air; but all the time the roses in her cheeks are fading, and
@@ -3982,18 +3982,18 @@ happy evening together.
        *       *       *       *       *
 
 _19 August._--Joy, joy, joy! although not all joy. At last, news of
-Jonathan. The dear fellow has been ill; that is why he did not write. I
+Thomas. The dear fellow has been ill; that is why he did not write. I
 am not afraid to think it or say it, now that I know. Mr. Hawkins sent
 me on the letter, and wrote himself, oh, so kindly. I am to leave in the
-morning and go over to Jonathan, and to help to nurse him if necessary,
+morning and go over to Thomas, and to help to nurse him if necessary,
 and to bring him home. Mr. Hawkins says it would not be a bad thing if
 we were to be married out there. I have cried over the good Sister’s
 letter till I can feel it wet against my bosom, where it lies. It is of
-Jonathan, and must be next my heart, for he is _in_ my heart. My journey
+Thomas, and must be next my heart, for he is _in_ my heart. My journey
 is all mapped out, and my luggage ready. I am only taking one change of
 dress; Lucy will bring my trunk to London and keep it till I send for
 it, for it may be that ... I must write no more; I must keep it to say
-to Jonathan, my husband. The letter that he has seen and touched must
+to Thomas, my husband. The letter that he has seen and touched must
 comfort me till we meet.
 
 
@@ -4004,7 +4004,7 @@ Buda-Pesth, to Miss Wilhelmina Murray._
 
 “Dear Madam,--
 
-“I write by desire of Mr. Jonathan Harker, who is himself not strong
+“I write by desire of Mr. Thomas Harker, who is himself not strong
 enough to write, though progressing well, thanks to God and St. Joseph
 and Ste. Mary. He has been under our care for nearly six weeks,
 suffering from a violent brain fever. He wishes me to convey his love,
@@ -4180,7 +4180,7 @@ _Letter, Mina Harker to Lucy Westenra._
 parted at the railway station at Whitby. Well, my dear, I got to Hull
 all right, and caught the boat to Hamburg, and then the train on here. I
 feel that I can hardly recall anything of the journey, except that I
-knew I was coming to Jonathan, and, that as I should have to do some
+knew I was coming to Thomas, and, that as I should have to do some
 nursing, I had better get all the sleep I could.... I found my dear one,
 oh, so thin and pale and weak-looking. All the resolution has gone out
 of his dear eyes, and that quiet dignity which I told you was in his
@@ -4202,7 +4202,7 @@ have no cause to be concerned. He has not forgotten you or what he owes
 to you. His fear was of great and terrible things, which no mortal can
 treat of.’ I do believe the dear soul thought I might be jealous lest my
 poor dear should have fallen in love with any other girl. The idea of
-_my_ being jealous about Jonathan! And yet, my dear, let me whisper, I
+_my_ being jealous about Thomas! And yet, my dear, let me whisper, I
 felt a thrill of joy through me when I _knew_ that no other woman was a
 cause of trouble. I am now sitting by his bedside, where I can see his
 face while he sleeps. He is waking!...
@@ -4237,12 +4237,12 @@ afternoon, and am waiting her reply....
 
 “She has come and told me that the chaplain of the English mission
 church has been sent for. We are to be married in an hour, or as soon
-after as Jonathan awakes....
+after as Thomas awakes....
 
        *       *       *       *       *
 
 “Lucy, the time has come and gone. I feel very solemn, but very, very
-happy. Jonathan woke a little after the hour, and all was ready, and he
+happy. Thomas woke a little after the hour, and all was ready, and he
 sat up in bed, propped up with pillows. He answered his ‘I will’ firmly
 and strongly. I could hardly speak; my heart was so full that even those
 words seemed to choke me. The dear sisters were so kind. Please God, I
@@ -4282,7 +4282,7 @@ please Almighty God, your life may be all it promises: a long day of
 sunshine, with no harsh wind, no forgetting duty, no distrust. I must
 not wish you no pain, for that can never be; but I do hope you will be
 _always_ as happy as I am _now_. Good-bye, my dear. I shall post this at
-once, and, perhaps, write you very soon again. I must stop, for Jonathan
+once, and, perhaps, write you very soon again. I must stop, for Thomas
 is waking--I must attend to my husband!
 
 “Your ever-loving
@@ -4298,7 +4298,7 @@ _Letter, Lucy Westenra to Mina Harker._
 
 “Oceans of love and millions of kisses, and may you soon be in your own
 home with your husband. I wish you could be coming home soon enough to
-stay with us here. The strong air would soon restore Jonathan; it has
+stay with us here. The strong air would soon restore Thomas; it has
 quite restored me. I have an appetite like a cormorant, am full of
 life, and sleep well. You will be glad to know that I have quite given
 up walking in my sleep. I think I have not stirred out of my bed for a
@@ -6224,7 +6224,7 @@ dinner Mr. Hawkins said:--
 blessing attend you both. I know you both from children, and have, with
 love and pride, seen you grow up. Now I want you to make your home here
 with me. I have left to me neither chick nor child; all are gone, and in
-my will I have left you everything.’ I cried, Lucy dear, as Jonathan and
+my will I have left you everything.’ I cried, Lucy dear, as Thomas and
 the old man clasped hands. Our evening was a very, very happy one.
 
 “So here we are, installed in this beautiful old house, and from both my
@@ -6233,13 +6233,13 @@ close, with their great black stems standing out against the old yellow
 stone of the cathedral and I can hear the rooks overhead cawing and
 cawing and chattering and gossiping all day, after the manner of
 rooks--and humans. I am busy, I need not tell you, arranging things and
-housekeeping. Jonathan and Mr. Hawkins are busy all day; for, now that
-Jonathan is a partner, Mr. Hawkins wants to tell him all about the
+housekeeping. Thomas and Mr. Hawkins are busy all day; for, now that
+Thomas is a partner, Mr. Hawkins wants to tell him all about the
 clients.
 
 “How is your dear mother getting on? I wish I could run up to town for a
 day or two to see you, dear, but I dare not go yet, with so much on my
-shoulders; and Jonathan wants looking after still. He is beginning to
+shoulders; and Thomas wants looking after still. He is beginning to
 put some flesh on his bones again, but he was terribly weakened by the
 long illness; even now he sometimes starts out of his sleep in a sudden
 way and awakes all trembling until I can coax him back to his usual
@@ -6249,7 +6249,7 @@ I have told you my news, let me ask yours. When are you to be married,
 and where, and who is to perform the ceremony, and what are you to wear,
 and is it to be a public or a private wedding? Tell me all about it,
 dear; tell me all about everything, for there is nothing which interests
-you which will not be dear to me. Jonathan asks me to send his
+you which will not be dear to me. Thomas asks me to send his
 ‘respectful duty,’ but I do not think that is good enough from the
 junior partner of the important firm Hawkins & Harker; and so, as you
 love me, and he loves me, and I love you with all the moods and tenses
@@ -6363,11 +6363,11 @@ _Letter, Mina Harker to Lucy Westenra_.
 Some may not think it so sad for us, but we had both come to so love him
 that it really seems as though we had lost a father. I never knew either
 father or mother, so that the dear old man’s death is a real blow to me.
-Jonathan is greatly distressed. It is not only that he feels sorrow,
+Thomas is greatly distressed. It is not only that he feels sorrow,
 deep sorrow, for the dear, good man who has befriended him all his life,
 and now at the end has treated him like his own son and left him a
 fortune which to people of our modest bringing up is wealth beyond the
-dream of avarice, but Jonathan feels it on another account. He says the
+dream of avarice, but Thomas feels it on another account. He says the
 amount of responsibility which it puts upon him makes him nervous. He
 begins to doubt himself. I try to cheer him up, and _my_ belief in _him_
 helps him to have a belief in himself. But it is here that the grave
@@ -6377,11 +6377,11 @@ enabled him by our dear, good friend’s aid to rise from clerk to master
 in a few years--should be so injured that the very essence of its
 strength is gone. Forgive me, dear, if I worry you with my troubles in
 the midst of your own happiness; but, Lucy dear, I must tell some one,
-for the strain of keeping up a brave and cheerful appearance to Jonathan
+for the strain of keeping up a brave and cheerful appearance to Thomas
 tries me, and I have no one here that I can confide in. I dread coming
 up to London, as we must do the day after to-morrow; for poor Mr.
 Hawkins left in his will that he was to be buried in the grave with his
-father. As there are no relations at all, Jonathan will have to be chief
+father. As there are no relations at all, Thomas will have to be chief
 mourner. I shall try to run over to see you, dearest, if only for a few
 minutes. Forgive me for troubling you. With all blessings,
 
@@ -6933,13 +6933,13 @@ a heavy, overpowering smell into the night.
 
 _Mina Harker’s Journal._
 
-_22 September._--In the train to Exeter. Jonathan sleeping.
+_22 September._--In the train to Exeter. Thomas sleeping.
 
 It seems only yesterday that the last entry was made, and yet how much
-between then, in Whitby and all the world before me, Jonathan away and
-no news of him; and now, married to Jonathan, Jonathan a solicitor, a
+between then, in Whitby and all the world before me, Thomas away and
+no news of him; and now, married to Thomas, Thomas a solicitor, a
 partner, rich, master of his business, Mr. Hawkins dead and buried, and
-Jonathan with another attack that may harm him. Some day he may ask me
+Thomas with another attack that may harm him. Some day he may ask me
 about it. Down it all goes. I am rusty in my shorthand--see what
 unexpected prosperity does for us--so it may be as well to freshen it up
 again with an exercise anyhow....
@@ -6947,23 +6947,23 @@ again with an exercise anyhow....
 The service was very simple and very solemn. There were only ourselves
 and the servants there, one or two old friends of his from Exeter, his
 London agent, and a gentleman representing Sir John Paxton, the
-President of the Incorporated Law Society. Jonathan and I stood hand in
+President of the Incorporated Law Society. Thomas and I stood hand in
 hand, and we felt that our best and dearest friend was gone from us....
 
 We came back to town quietly, taking a ’bus to Hyde Park Corner.
-Jonathan thought it would interest me to go into the Row for a while, so
+Thomas thought it would interest me to go into the Row for a while, so
 we sat down; but there were very few people there, and it was
 sad-looking and desolate to see so many empty chairs. It made us think
 of the empty chair at home; so we got up and walked down Piccadilly.
-Jonathan was holding me by the arm, the way he used to in old days
+Thomas was holding me by the arm, the way he used to in old days
 before I went to school. I felt it very improper, for you can’t go on
 for some years teaching etiquette and decorum to other girls without the
-pedantry of it biting into yourself a bit; but it was Jonathan, and he
+pedantry of it biting into yourself a bit; but it was Thomas, and he
 was my husband, and we didn’t know anybody who saw us--and we didn’t
 care if they did--so on we walked. I was looking at a very beautiful
 girl, in a big cart-wheel hat, sitting in a victoria outside Guiliano’s,
-when I felt Jonathan clutch my arm so tight that he hurt me, and he said
-under his breath: “My God!” I am always anxious about Jonathan, for I
+when I felt Thomas clutch my arm so tight that he hurt me, and he said
+under his breath: “My God!” I am always anxious about Thomas, for I
 fear that some nervous fit may upset him again; so I turned to him
 quickly, and asked him what it was that disturbed him.
 
@@ -6974,9 +6974,9 @@ girl. He was looking at her so hard that he did not see either of us,
 and so I had a good view of him. His face was not a good face; it was
 hard, and cruel, and sensual, and his big white teeth, that looked all
 the whiter because his lips were so red, were pointed like an animal’s.
-Jonathan kept staring at him, till I was afraid he would notice. I
+Thomas kept staring at him, till I was afraid he would notice. I
 feared he might take it ill, he looked so fierce and nasty. I asked
-Jonathan why he was disturbed, and he answered, evidently thinking that
+Thomas why he was disturbed, and he answered, evidently thinking that
 I knew as much about it as he did: “Do you see who it is?”
 
 “No, dear,” I said; “I don’t know him; who is it?” His answer seemed to
@@ -6991,7 +6991,7 @@ support him he would have sunk down. He kept staring; a man came out of
 the shop with a small parcel, and gave it to the lady, who then drove
 off. The dark man kept his eyes fixed on her, and when the carriage
 moved up Piccadilly he followed in the same direction, and hailed a
-hansom. Jonathan kept looking after him, and said, as if to himself:--
+hansom. Thomas kept looking after him, and said, as if to himself:--
 
 “I believe it is the Count, but he has grown young. My God, if this be
 so! Oh, my God! my God! If I only knew! if I only knew!” He was
@@ -7000,7 +7000,7 @@ subject by asking him any questions, so I remained silent. I drew him
 away quietly, and he, holding my arm, came easily. We walked a little
 further, and then went in and sat for a while in the Green Park. It was
 a hot day for autumn, and there was a comfortable seat in a shady place.
-After a few minutes’ staring at nothing, Jonathan’s eyes closed, and he
+After a few minutes’ staring at nothing, Thomas’s eyes closed, and he
 went quietly into a sleep, with his head on my shoulder. I thought it
 was the best thing for him, so did not disturb him. In about twenty
 minutes he woke up, and said to me quite cheerfully:--
@@ -7012,13 +7012,13 @@ this episode had reminded him of. I don’t like this lapsing into
 forgetfulness; it may make or continue some injury to the brain. I must
 not ask him, for fear I shall do more harm than good; but I must somehow
 learn the facts of his journey abroad. The time is come, I fear, when I
-must open that parcel, and know what is written. Oh, Jonathan, you will,
+must open that parcel, and know what is written. Oh, Thomas, you will,
 I know, forgive me if I do wrong, but it is for your own dear sake.
 
        *       *       *       *       *
 
 _Later._--A sad home-coming in every way--the house empty of the dear
-soul who was so good to us; Jonathan still pale and dizzy under a slight
+soul who was so good to us; Thomas still pale and dizzy under a slight
 relapse of his malady; and now a telegram from Van Helsing, whoever he
 may be:--
 
@@ -7229,11 +7229,11 @@ CHAPTER XIV
 MINA HARKER’S JOURNAL
 
 
-_23 September_.--Jonathan is better after a bad night. I am so glad that
+_23 September_.--Thomas is better after a bad night. I am so glad that
 he has plenty of work to do, for that keeps his mind off the terrible
 things; and oh, I am rejoiced that he is not now weighed down with the
 responsibility of his new position. I knew he would be true to himself,
-and now how proud I am to see my Jonathan rising to the height of his
+and now how proud I am to see my Thomas rising to the height of his
 advancement and keeping pace in all ways with the duties that come upon
 him. He will be away all day till late, for he said he could not lunch
 at home. My household work is done, so I shall take his foreign journal,
@@ -7241,7 +7241,7 @@ and lock myself up in my room and read it....
 
 
 _24 September_.--I hadn’t the heart to write last night; that terrible
-record of Jonathan’s upset me so. Poor dear! How he must have suffered,
+record of Thomas’s upset me so. Poor dear! How he must have suffered,
 whether it be true or only imagination. I wonder if there is any truth
 in it at all. Did he get his brain fever, and then write all those
 terrible things, or had he some cause for it all? I suppose I shall
@@ -7257,8 +7257,8 @@ teeming millions.... There may be a solemn duty; and if it come we must
 not shrink from it.... I shall be prepared. I shall get my typewriter
 this very hour and begin transcribing. Then we shall be ready for other
 eyes if required. And if it be wanted; then, perhaps, if I am ready,
-poor Jonathan may not be upset, for I can speak for him and never let
-him be troubled or worried with it at all. If ever Jonathan quite gets
+poor Thomas may not be upset, for I can speak for him and never let
+him be troubled or worried with it at all. If ever Thomas quite gets
 over the nervousness he may want to tell me of it all, and I can ask him
 questions and find out things, and see how I may comfort him.
 
@@ -7301,10 +7301,10 @@ MINA HARKER’S JOURNAL.
 
 _25 September._--I cannot help feeling terribly excited as the time
 draws near for the visit of Dr. Van Helsing, for somehow I expect that
-it will throw some light upon Jonathan’s sad experience; and as he
+it will throw some light upon Thomas’s sad experience; and as he
 attended poor dear Lucy in her last illness, he can tell me all about
 her. That is the reason of his coming; it is concerning Lucy and her
-sleep-walking, and not about Jonathan. Then I shall never know the real
+sleep-walking, and not about Thomas. Then I shall never know the real
 truth now! How silly I am. That awful journal gets hold of my
 imagination and tinges everything with something of its own colour. Of
 course it is about Lucy. That habit came back to the poor dear, and that
@@ -7320,11 +7320,11 @@ late that I feel I cannot bear more just at present.
 
 I suppose a cry does us all good at times--clears the air as other rain
 does. Perhaps it was reading the journal yesterday that upset me, and
-then Jonathan went away this morning to stay away from me a whole day
+then Thomas went away this morning to stay away from me a whole day
 and night, the first time we have been parted since our marriage. I do
 hope the dear fellow will take care of himself, and that nothing will
 occur to upset him. It is two o’clock, and the doctor will be here soon
-now. I shall say nothing of Jonathan’s journal unless he asks me. I am
+now. I shall say nothing of Thomas’s journal unless he asks me. I am
 so glad I have type-written out my own journal, so that, in case he asks
 about Lucy, I can hand it to him; it will save much questioning.
 
@@ -7332,9 +7332,9 @@ about Lucy, I can hand it to him; it will save much questioning.
 
 _Later._--He has come and gone. Oh, what a strange meeting, and how it
 all makes my head whirl round! I feel like one in a dream. Can it be all
-possible, or even a part of it? If I had not read Jonathan’s journal
+possible, or even a part of it? If I had not read Thomas’s journal
 first, I should never have accepted even a possibility. Poor, poor, dear
-Jonathan! How he must have suffered. Please the good God, all this may
+Thomas! How he must have suffered. Please the good God, all this may
 not upset him again. I shall try to save him from it; but it may be even
 a consolation and a help to him--terrible though it be and awful in its
 consequences--to know for certain that his eyes and ears and brain did
@@ -7345,9 +7345,9 @@ satisfied and better able to bear the shock. Dr. Van Helsing must be a
 good man as well as a clever one if he is Arthur’s friend and Dr.
 Seward’s, and if they brought him all the way from Holland to look after
 Lucy. I feel from having seen him that he _is_ good and kind and of a
-noble nature. When he comes to-morrow I shall ask him about Jonathan;
+noble nature. When he comes to-morrow I shall ask him about Thomas;
 and then, please God, all this sorrow and anxiety may lead to a good
-end. I used to think I would like to practise interviewing; Jonathan’s
+end. I used to think I would like to practise interviewing; Thomas’s
 friend on “The Exeter News” told him that memory was everything in such
 work--that you must be able to put down exactly almost every word
 spoken, even if you had to refine some of it afterwards. Here was a rare
@@ -7416,7 +7416,7 @@ bow, and said:--
 “If you wish,” I answered as demurely as I could. He opened it, and for
 an instant his face fell. Then he stood up and bowed.
 
-“Oh, you so clever woman!” he said. “I knew long that Mr. Jonathan was a
+“Oh, you so clever woman!” he said. “I knew long that Mr. Thomas was a
 man of much thankfulness; but see, his wife have all the good things.
 And will you not so much honour me and so help me as to read it for me?
 Alas! I know not the shorthand.” By this time my little joke was over,
@@ -7465,7 +7465,7 @@ angels’ eyes. Your husband is noble nature, and you are noble too, for
 you trust, and trust cannot be where there is mean nature. And your
 husband--tell me of him. Is he quite well? Is all that fever gone, and
 is he strong and hearty?” I saw here an opening to ask him about
-Jonathan, so I said:--
+Thomas, so I said:--
 
 “He was almost recovered, but he has been greatly upset by Mr. Hawkins’s
 death.” He interrupted:--
@@ -7481,7 +7481,7 @@ a shock was it?”
 
 “He thought he saw some one who recalled something terrible, something
 which led to his brain fever.” And here the whole thing seemed to
-overwhelm me in a rush. The pity for Jonathan, the horror which he
+overwhelm me in a rush. The pity for Thomas, the horror which he
 experienced, the whole fearful mystery of his diary, and the fear that
 has been brooding over me ever since, all came in a tumult. I suppose I
 was hysterical, for I threw myself on my knees and held up my hands to
@@ -7502,20 +7502,20 @@ use to you; for if your husband suffer, he suffer within the range of my
 study and experience. I promise you that I will gladly do _all_ for him
 that I can--all to make his life strong and manly, and your life a happy
 one. Now you must eat. You are overwrought and perhaps over-anxious.
-Husband Jonathan would not like to see you so pale; and what he like not
+Husband Thomas would not like to see you so pale; and what he like not
 where he love, is not to his good. Therefore for his sake you must eat
 and smile. You have told me all about Lucy, and so now we shall not
 speak of it, lest it distress. I shall stay in Exeter to-night, for I
 want to think much over what you have told me, and when I have thought I
 will ask you questions, if I may. And then, too, you will tell me of
-husband Jonathan’s trouble so far as you can, but not yet. You must eat
+husband Thomas’s trouble so far as you can, but not yet. You must eat
 now; afterwards you shall tell me all.”
 
 After lunch, when we went back to the drawing-room, he said to me:--
 
 “And now tell me all about him.” When it came to speaking to this great
 learned man, I began to fear that he would think me a weak fool, and
-Jonathan a madman--that journal is all so strange--and I hesitated to go
+Thomas a madman--that journal is all so strange--and I hesitated to go
 on. But he was so sweet and kind, and he had promised to help, and I
 trusted him, so I said:--
 
@@ -7535,7 +7535,7 @@ make one doubt if they be mad or sane.”
 “Thank you, thank you, a thousand times! You have taken a weight off my
 mind. If you will let me, I shall give you a paper to read. It is long,
 but I have typewritten it out. It will tell you my trouble and
-Jonathan’s. It is the copy of his journal when abroad, and all that
+Thomas’s. It is the copy of his journal when abroad, and all that
 happened. I dare not say anything of it; you will read for yourself and
 judge. And then when I see you, perhaps, you will be very kind and tell
 me what you think.”
@@ -7543,11 +7543,11 @@ me what you think.”
 “I promise,” he said as I gave him the papers; “I shall in the morning,
 so soon as I can, come to see you and your husband, if I may.”
 
-“Jonathan will be here at half-past eleven, and you must come to lunch
+“Thomas will be here at half-past eleven, and you must come to lunch
 with us and see him then; you could catch the quick 3:34 train, which
 will leave you at Paddington before eight.” He was surprised at my
 knowledge of the trains off-hand, but he does not know that I have made
-up all the trains to and from Exeter, so that I may help Jonathan in
+up all the trains to and from Exeter, so that I may help Thomas in
 case he is in a hurry.
 
 So he took the papers with him and went away, and I sit here
@@ -7588,7 +7588,7 @@ _Letter, Mrs. Harker to Van Helsing._
 off my mind. And yet, if it be true, what terrible things there are in
 the world, and what an awful thing if that man, that monster, be really
 in London! I fear to think. I have this moment, whilst writing, had a
-wire from Jonathan, saying that he leaves by the 6:25 to-night from
+wire from Thomas, saying that he leaves by the 6:25 to-night from
 Launceston and will be here at 10:18, so that I shall have no fear
 to-night. Will you, therefore, instead of lunching with us, please come
 to breakfast at eight o’clock, if this be not too early for you? You can
@@ -7603,7 +7603,7 @@ if I do not hear, you will come to breakfast.
 “MINA HARKER.”
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _26 September._--I thought never to write in this diary again, but the
 time has come. When I got home last night Mina had supper ready, and
@@ -8260,7 +8260,7 @@ be. I shall be at hand all the night from sunset till after the sunrise,
 and if there be aught that may be learned I shall learn it. For Miss
 Lucy or from her, I have no fear; but that other to whom is there that
 she is Un-Dead, he have now the power to seek her tomb and find shelter.
-He is cunning, as I know from Mr. Jonathan and from the way that all
+He is cunning, as I know from Mr. Thomas and from the way that all
 along he have fooled us when he played with us for Miss Lucy’s life, and
 we lost; and in many ways the Un-Dead are strong. He have always the
 strength in his hand of twenty men; even we four who gave our strength
@@ -8906,7 +8906,7 @@ DR. SEWARD’S DIARY--_continued_
 When we arrived at the Berkeley Hotel, Van Helsing found a telegram
 waiting for him:--
 
-     “Am coming up by train. Jonathan at Whitby. Important news.--MINA
+     “Am coming up by train. Thomas at Whitby. Important news.--MINA
      HARKER.”
 
 The Professor was delighted. “Ah, that wonderful Madam Mina,” he said,
@@ -8915,7 +8915,7 @@ house, friend John. You must meet her at the station. Telegraph her _en
 route_, so that she may be prepared.”
 
 When the wire was despatched he had a cup of tea; over it he told me of
-a diary kept by Jonathan Harker when abroad, and gave me a typewritten
+a diary kept by Thomas Harker when abroad, and gave me a typewritten
 copy of it, as also of Mrs. Harker’s diary at Whitby. “Take these,” he
 said, “and study them well. When I have returned you will be master of
 all the facts, and we can then better enter on our inquisition. Keep
@@ -9057,7 +9057,7 @@ episode of which I know one side already....
 
 _Dr. Seward’s Diary._
 
-_29 September._--I was so absorbed in that wonderful diary of Jonathan
+_29 September._--I was so absorbed in that wonderful diary of Thomas
 Harker and that other of his wife that I let the time run on without
 thinking. Mrs. Harker was not down when the maid came to announce
 dinner, so I said: “She is possibly tired; let dinner wait an hour,” and
@@ -9094,7 +9094,7 @@ but I can see that there are in your record many lights to this dark
 mystery. You will let me help, will you not? I know all up to a certain
 point; and I see already, though your diary only took me to 7 September,
 how poor Lucy was beset, and how her terrible doom was being wrought
-out. Jonathan and I have been working day and night since Professor Van
+out. Thomas and I have been working day and night since Professor Van
 Helsing saw us. He is gone to Whitby to get more information, and he
 will be here to-morrow to help us. We need have no secrets amongst us;
 working together and with absolute trust, we can surely be stronger than
@@ -9131,13 +9131,13 @@ me. My brain was all in a whirl, and only that there came through all
 the multitude of horrors, the holy ray of light that my dear, dear Lucy
 was at last at peace, I do not think I could have borne it without
 making a scene. It is all so wild, and mysterious, and strange that if I
-had not known Jonathan’s experience in Transylvania I could not have
+had not known Thomas’s experience in Transylvania I could not have
 believed. As it was, I didn’t know what to believe, and so got out of my
 difficulty by attending to something else. I took the cover off my
 typewriter, and said to Dr. Seward:--
 
 “Let me write this all out now. We must be ready for Dr. Van Helsing
-when he comes. I have sent a telegram to Jonathan to come on here when
+when he comes. I have sent a telegram to Thomas to come on here when
 he arrives in London from Whitby. In this matter dates are everything,
 and I think that if we get all our material ready, and have every item
 put in chronological order, we shall have done much. You tell me that
@@ -9150,7 +9150,7 @@ his work of going his round of the patients; when he had finished he
 came back and sat near me, reading, so that I did not feel too lonely
 whilst I worked. How good and thoughtful he is; the world seems full of
 good men--even if there _are_ monsters in it. Before I left him I
-remembered what Jonathan put in his diary of the Professor’s
+remembered what Thomas put in his diary of the Professor’s
 perturbation at reading something in an evening paper at the station at
 Exeter; so, seeing that Dr. Seward keeps his newspapers, I borrowed the
 files of “The Westminster Gazette” and “The Pall Mall Gazette,” and took
@@ -9220,7 +9220,7 @@ is....
      have a strait-waistcoat ready in case of need.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _29 September, in train to London._--When I received Mr. Billington’s
 courteous message that he would give me any information in his power I
@@ -9316,7 +9316,7 @@ _Mina Harker’s Journal_
 _30 September._--I am so glad that I hardly know how to contain myself.
 It is, I suppose, the reaction from the haunting fear which I have had:
 that this terrible affair and the reopening of his old wound might act
-detrimentally on Jonathan. I saw him leave for Whitby with as brave a
+detrimentally on Thomas. I saw him leave for Whitby with as brave a
 face as I could, but I was sick with apprehension. The effort has,
 however, done him good. He was never so resolute, never so strong, never
 so full of volcanic energy, as at present. It is just as that dear, good
@@ -9332,7 +9332,7 @@ one’s heart.
        *       *       *       *       *
 
 _Later._--Lord Godalming and Mr. Morris arrived earlier than we
-expected. Dr. Seward was out on business, and had taken Jonathan with
+expected. Dr. Seward was out on business, and had taken Thomas with
 him, so I had to see them. It was to me a painful meeting, for it
 brought back all poor dear Lucy’s hopes of only a few months ago. Of
 course they had heard Lucy speak of me, and it seemed that Dr. Van
@@ -9639,7 +9639,7 @@ _30 September._--When we met in Dr. Seward’s study two hours after
 dinner, which had been at six o’clock, we unconsciously formed a sort of
 board or committee. Professor Van Helsing took the head of the table, to
 which Dr. Seward motioned him as he came into the room. He made me sit
-next to him on his right, and asked me to act as secretary; Jonathan sat
+next to him on his right, and asked me to act as secretary; Thomas sat
 next to me. Opposite us were Lord Godalming, Dr. Seward, and Mr.
 Morris--Lord Godalming being next the Professor, and Dr. Seward in the
 centre. The Professor said:--
@@ -9693,7 +9693,7 @@ song of birds, his music and his love, lie far behind. You others are
 young. Some have seen sorrow; but there are fair days yet in store. What
 say you?”
 
-Whilst he was speaking, Jonathan had taken my hand. I feared, oh so
+Whilst he was speaking, Thomas had taken my hand. I feared, oh so
 much, that the appalling nature of our danger was overcoming him when I
 saw his hand stretch out; but it was life to me to feel its touch--so
 strong, so self-reliant, so resolute. A brave man’s hand can speak for
@@ -9711,7 +9711,7 @@ reason.”
 
 Dr. Seward simply nodded. The Professor stood up and, after laying his
 golden crucifix on the table, held out his hand on either side. I took
-his right hand, and Lord Godalming his left; Jonathan held my right with
+his right hand, and Lord Godalming his left; Thomas held my right with
 his left and stretched across to Mr. Morris. So as we all took hands our
 solemn compact was made. I felt my heart icy cold, but it did not even
 occur to me to draw back. We resumed our places, and Dr. Van Helsing
@@ -9756,10 +9756,10 @@ living. Even more, we have seen amongst us that he can even grow
 younger; that his vital faculties grow strenuous, and seem as though
 they refresh themselves when his special pabulum is plenty. But he
 cannot flourish without this diet; he eat not as others. Even friend
-Jonathan, who lived with him for weeks, did never see him to eat, never!
+Thomas, who lived with him for weeks, did never see him to eat, never!
 He throws no shadow; he make in the mirror no reflect, as again
-Jonathan observe. He has the strength of many of his hand--witness again
-Jonathan when he shut the door against the wolfs, and when he help him
+Thomas observe. He has the strength of many of his hand--witness again
+Thomas when he shut the door against the wolfs, and when he help him
 from the diligence too. He can transform himself to wolf, as we gather
 from the ship arrival in Whitby, when he tear open the dog; he can be as
 bat, as Madam Mina saw him on the window at Whitby, and as friend John
@@ -9767,7 +9767,7 @@ saw him fly from this so near house, and as my friend Quincey saw him at
 the window of Miss Lucy. He can come in mist which he create--that noble
 ship’s captain proved him of this; but, from what we know, the distance
 he can make this mist is limited, and it can only be round himself. He
-come on moonlight rays as elemental dust--as again Jonathan saw those
+come on moonlight rays as elemental dust--as again Thomas saw those
 sisters in the castle of Dracula. He become so small--we ourselves saw
 Miss Lucy, ere she was at peace, slip through a hairbreadth space at the
 tomb door. He can, when once he find his way, come out from anything or
@@ -9828,7 +9828,7 @@ and he now got up quietly, and went out of the room. There was a little
 pause, and then the Professor went on:--
 
 “And now we must settle what we do. We have here much data, and we must
-proceed to lay out our campaign. We know from the inquiry of Jonathan
+proceed to lay out our campaign. We know from the inquiry of Thomas
 that from the castle to Whitby came fifty boxes of earth, all of which
 were delivered at Carfax; we also know that at least some of these boxes
 have been removed. It seems to me, that our first step should be to
@@ -9874,7 +9874,7 @@ and are able to bear; but you must be our star and our hope, and we
 shall act all the more free that you are not in the danger, such as we
 are.”
 
-All the men, even Jonathan, seemed relieved; but it did not seem to me
+All the men, even Thomas, seemed relieved; but it did not seem to me
 good that they should brave danger and, perhaps, lessen their
 safety--strength being the best safety--through care of me; but their
 minds were made up, and, though it was a bitter pill for me to swallow,
@@ -9894,7 +9894,7 @@ with means to get into the house.
 
 Manlike, they had told me to go to bed and sleep; as if a woman can
 sleep when those she loves are in danger! I shall lie down and pretend
-to sleep, lest Jonathan have added anxiety about me when he returns.
+to sleep, lest Thomas have added anxiety about me when he returns.
 
 
 _Dr. Seward’s Diary._
@@ -10198,7 +10198,7 @@ had been used several times, for on the table were several similar rents
 in the blanket of dust, similar to that exposed when the Professor
 lifted them. He turned to me and said:--
 
-“You know this place, Jonathan. You have copied maps of it, and you know
+“You know this place, Thomas. You have copied maps of it, and you know
 it at least more than we do. Which is the way to the chapel?” I had an
 idea of its direction, though on my former visit I had not been able to
 get admission to it; so I led the way, and after a few wrong turnings
@@ -10438,10 +10438,10 @@ shall finish my round of work and we shall meet to-night.
 _Mina Harker’s Journal._
 
 _1 October._--It is strange to me to be kept in the dark as I am to-day;
-after Jonathan’s full confidence for so many years, to see him
+after Thomas’s full confidence for so many years, to see him
 manifestly avoid certain matters, and those the most vital of all. This
 morning I slept late after the fatigues of yesterday, and though
-Jonathan was late too, he was the earlier. He spoke to me before he went
+Thomas was late too, he was the earlier. He spoke to me before he went
 out, never more sweetly or tenderly, but he never mentioned a word of
 what had happened in the visit to the Count’s house. And yet he must
 have known how terribly anxious I was. Poor dear fellow! I suppose it
@@ -10451,7 +10451,7 @@ I acquiesced. But to think that he keeps anything from me! And now I am
 crying like a silly fool, when I _know_ it comes from my husband’s great
 love and from the good, good wishes of those other strong men.
 
-That has done me good. Well, some day Jonathan will tell me all; and
+That has done me good. Well, some day Thomas will tell me all; and
 lest it should ever be that he should think for a moment that I kept
 anything from him, I still keep my journal as usual. Then if he has
 feared of my trust I shall show it to him, with every thought of my
@@ -10461,7 +10461,7 @@ excitement.
 
 Last night I went to bed when the men had gone, simply because they told
 me to. I didn’t feel sleepy, and I did feel full of devouring anxiety. I
-kept thinking over everything that has been ever since Jonathan came to
+kept thinking over everything that has been ever since Thomas came to
 see me in London, and it all seems like a horrible tragedy, with fate
 pressing on relentlessly to some destined end. Everything that one does
 seems, no matter how right it may be, to bring on the very thing which
@@ -10471,7 +10471,7 @@ till I came, and if she hadn’t come there in the day-time with me she
 wouldn’t have walked there in her sleep; and if she hadn’t gone there at
 night and asleep, that monster couldn’t have destroyed her as he did.
 Oh, why did I ever go to Whitby? There now, crying again! I wonder what
-has come over me to-day. I must hide it from Jonathan, for if he knew
+has come over me to-day. I must hide it from Thomas, for if he knew
 that I had been crying twice in one morning--I, who never cried on my
 own account, and whom he has never caused to shed a tear--the dear
 fellow would fret his heart out. I shall put a bold face on, and if I do
@@ -10501,18 +10501,18 @@ attendants were dealing with him. I was so frightened that I crept into
 bed, and pulled the clothes over my head, putting my fingers in my ears.
 I was not then a bit sleepy, at least so I thought; but I must have
 fallen asleep, for, except dreams, I do not remember anything until the
-morning, when Jonathan woke me. I think that it took me an effort and a
-little time to realise where I was, and that it was Jonathan who was
+morning, when Thomas woke me. I think that it took me an effort and a
+little time to realise where I was, and that it was Thomas who was
 bending over me. My dream was very peculiar, and was almost typical of
 the way that waking thoughts become merged in, or continued in, dreams.
 
-I thought that I was asleep, and waiting for Jonathan to come back. I
+I thought that I was asleep, and waiting for Thomas to come back. I
 was very anxious about him, and I was powerless to act; my feet, and my
 hands, and my brain were weighted, so that nothing could proceed at the
 usual pace. And so I slept uneasily and thought. Then it began to dawn
 upon me that the air was heavy, and dank, and cold. I put back the
 clothes from my face, and found, to my surprise, that all was dim
-around. The gaslight which I had left lit for Jonathan, but turned down,
+around. The gaslight which I had left lit for Thomas, but turned down,
 came only like a tiny red spark through the fog, which had evidently
 grown thicker and poured into the room. Then it occurred to me that I
 had shut the window before I had come to bed. I would have got out to
@@ -10535,7 +10535,7 @@ red eye, which at the thought got a new fascination for me; till, as I
 looked, the fire divided, and seemed to shine on me through the fog like
 two red eyes, such as Lucy told me of in her momentary mental wandering
 when, on the cliff, the dying sunlight struck the windows of St. Mary’s
-Church. Suddenly the horror burst upon me that it was thus that Jonathan
+Church. Suddenly the horror burst upon me that it was thus that Thomas
 had seen those awful women growing into reality through the whirling mist
 in the moonlight, and in my dream I must have fainted, for all became
 black darkness. The last conscious effort which imagination made was to
@@ -10552,19 +10552,19 @@ night tired me more than if I had not slept at all.
        *       *       *       *       *
 
 _2 October 10 p. m._--Last night I slept, but did not dream. I must have
-slept soundly, for I was not waked by Jonathan coming to bed; but the
+slept soundly, for I was not waked by Thomas coming to bed; but the
 sleep has not refreshed me, for to-day I feel terribly weak and
 spiritless. I spent all yesterday trying to read, or lying down dozing.
 In the afternoon Mr. Renfield asked if he might see me. Poor man, he was
 very gentle, and when I came away he kissed my hand and bade God bless
 me. Some way it affected me much; I am crying when I think of him. This
-is a new weakness, of which I must be careful. Jonathan would be
+is a new weakness, of which I must be careful. Thomas would be
 miserable if he knew I had been crying. He and the others were out till
 dinner-time, and they all came in tired. I did what I could to brighten
 them up, and I suppose that the effort did me good, for I forgot how
 tired I was. After dinner they sent me to bed, and all went off to smoke
 together, as they said, but I knew that they wanted to tell each other
-of what had occurred to each during the day; I could see from Jonathan’s
+of what had occurred to each during the day; I could see from Thomas’s
 manner that he had something important to communicate. I was not so
 sleepy as I should have been; so before they went I asked Dr. Seward to
 give me a little opiate of some kind, as I had not slept well the night
@@ -10859,7 +10859,7 @@ the study. In the train I had written my diary so far, and simply read
 it off to them as the best means of letting them get abreast of my own
 information; when I had finished Van Helsing said:--
 
-“This has been a great day’s work, friend Jonathan. Doubtless we are on
+“This has been a great day’s work, friend Thomas. Doubtless we are on
 the track of the missing boxes. If we find them all in that house, then
 our work is near the end. But if there be some missing, we must search
 until we find them. Then shall we make our final _coup_, and hunt the
@@ -11487,7 +11487,7 @@ appalled me. I felt my hair rise like bristles on the back of my neck,
 and my heart seemed to stand still.
 
 The moonlight was so bright that through the thick yellow blind the room
-was light enough to see. On the bed beside the window lay Jonathan
+was light enough to see. On the bed beside the window lay Thomas
 Harker, his face flushed and breathing heavily as though in a stupor.
 Kneeling on the near edge of the bed facing outwards was the white-clad
 figure of his wife. By her side stood a tall, thin man, clad in black.
@@ -11529,7 +11529,7 @@ endless grief. Van Helsing stepped forward and drew the coverlet gently
 over her body, whilst Art, after looking at her face for an instant
 despairingly, ran out of the room. Van Helsing whispered to me:--
 
-“Jonathan is in a stupor such as we know the Vampire can produce. We can
+“Thomas is in a stupor such as we know the Vampire can produce. We can
 do nothing with poor Madam Mina for a few moments till she recovers
 herself; I must wake him!” He dipped the end of a towel in cold water
 and with it began to flick him on the face, his wife all the while
@@ -11560,7 +11560,7 @@ far yet. Guard her while I look for _him_!” His wife, through her terror
 and horror and distress, saw some sure danger to him: instantly
 forgetting her own grief, she seized hold of him and cried out:--
 
-“No! no! Jonathan, you must not leave me. I have suffered enough
+“No! no! Thomas, you must not leave me. I have suffered enough
 to-night, God knows, without the dread of his harming you. You must stay
 with me. Stay with these friends who will watch over you!” Her
 expression became frantic as she spoke; and, he yielding to her, she
@@ -11676,12 +11676,12 @@ to tell of this fearful thing at all, you would understand how much I
 need your help. Well, I saw I must try to help the medicine to its work
 with my will, if it was to do me any good, so I resolutely set myself to
 sleep. Sure enough sleep must soon have come to me, for I remember no
-more. Jonathan coming in had not waked me, for he lay by my side when
+more. Thomas coming in had not waked me, for he lay by my side when
 next I remember. There was in the room the same thin white mist that I
 had before noticed. But I forget now if you know of this; you will find
 it in my diary which I shall show you later. I felt the same vague
 terror which had come to me before and the same sense of some presence.
-I turned to wake Jonathan, but found that he slept so soundly that it
+I turned to wake Thomas, but found that he slept so soundly that it
 seemed as if it was he who had taken the sleeping draught, and not I. I
 tried, but I could not wake him. This caused me a great fear, and I
 looked around terrified. Then indeed, my heart sank within me: beside
@@ -11692,10 +11692,10 @@ the others. The waxen face; the high aquiline nose, on which the light
 fell in a thin white line; the parted red lips, with the sharp white
 teeth showing between; and the red eyes that I had seemed to see in the
 sunset on the windows of St. Mary’s Church at Whitby. I knew, too, the
-red scar on his forehead where Jonathan had struck him. For an instant
+red scar on his forehead where Thomas had struck him. For an instant
 my heart stood still, and I would have screamed out, only that I was
 paralysed. In the pause he spoke in a sort of keen, cutting whisper,
-pointing as he spoke to Jonathan:--
+pointing as he spoke to Thomas:--
 
 “‘Silence! If you make a sound I shall take him and dash his brains out
 before your very eyes.’ I was appalled and was too bewildered to do or
@@ -11889,7 +11889,7 @@ and the destroying shall be, in time, sure.” Here I started up for I
 could not contain myself at the thought that the minutes and seconds so
 preciously laden with Mina’s life and happiness were flying from us,
 since whilst we talked action was impossible. But Van Helsing held up
-his hand warningly. “Nay, friend Jonathan,” he said, “in this, the
+his hand warningly. “Nay, friend Thomas,” he said, “in this, the
 quickest way home is the longest way, so your proverb say. We shall all
 act and act with desperate quick, when the time has come. But think, in
 all probable the key of the situation is in that house in Piccadilly.
@@ -11940,7 +11940,7 @@ the conscience of the employer, and the belief of your policemen as to
 whether or no that employer has a good conscience or a bad one. Your
 police must indeed be zealous men and clever--oh, so clever!--in reading
 the heart, that they trouble themselves in such matter. No, no, my
-friend Jonathan, you go take the lock off a hundred empty house in this
+friend Thomas, you go take the lock off a hundred empty house in this
 your London, or of any city in the world; and if you do it as such
 things are rightly done, and at the time such things are rightly done,
 no one will interfere. I have read of a gentleman who owned a so fine
@@ -12347,7 +12347,7 @@ direction, opened it and read aloud.
 hastened towards the South. He seems to be going the round and may want
 to see you: Mina.”
 
-There was a pause, broken by Jonathan Harker’s voice:--
+There was a pause, broken by Thomas Harker’s voice:--
 
 “Now, God be thanked, we shall soon meet!” Van Helsing turned to him
 quickly and said:--
@@ -12540,8 +12540,8 @@ our grim hate; her tender faith against all our fears and doubting; and
 we, knowing that so far as symbols went, she with all her goodness and
 purity and faith, was outcast from God.
 
-“Jonathan,” she said, and the word sounded like music on her lips it was
-so full of love and tenderness, “Jonathan dear, and you all my true,
+“Thomas,” she said, and the word sounded like music on her lips it was
+so full of love and tenderness, “Thomas dear, and you all my true,
 true friends, I want you to bear something in mind through all this
 dreadful time. I know that you must fight--that you must destroy even as
 you destroyed the false Lucy so that the true Lucy might live hereafter;
@@ -12564,7 +12564,7 @@ earthly life of him which we are aiming at. If beyond it I could send
 his soul for ever and ever to burning hell I would do it!”
 
 “Oh, hush! oh, hush! in the name of the good God. Don’t say such things,
-Jonathan, my husband; or you will crush me with fear and horror. Just
+Thomas, my husband; or you will crush me with fear and horror. Just
 think, my dear--I have been thinking all this long, long day of it--that
 ... perhaps ... some day ... I, too, may need such pity; and that some
 other like you--and with equal cause for anger--may deny it to me! Oh,
@@ -12596,7 +12596,7 @@ for his is the second watch. Now that my work is done I, too, shall go
 to bed.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _3-4 October, close to midnight._--I thought yesterday would never end.
 There was over me a yearning for sleep, in some sort of blind belief
@@ -12674,7 +12674,7 @@ the door asking questions. When the Professor saw Mina smile--a
 positive smile ousted the anxiety of his face; he rubbed his hands as he
 said:--
 
-“Oh, my dear Madam Mina, this is indeed a change. See! friend Jonathan,
+“Oh, my dear Madam Mina, this is indeed a change. See! friend Thomas,
 we have got our dear Madam Mina, as of old, back to us to-day!” Then
 turning to her, he said, cheerfully: “And what am I do for you? For at
 this hour you do not want me for nothings.”
@@ -12763,7 +12763,7 @@ know not. We have been blind somewhat; blind after the manner of men,
 since when we can look back we see what we might have seen looking
 forward if we had been able to see what we might have seen! Alas, but
 that sentence is a puddle; is it not? We can know now what was in the
-Count’s mind, when he seize that money, though Jonathan’s so fierce
+Count’s mind, when he seize that money, though Thomas’s so fierce
 knife put him in the danger that even he dread. He meant escape. Hear
 me, ESCAPE! He saw that with but one earth-box left, and a pack of men
 following like dogs after a fox, this London was no place for him. He
@@ -12808,7 +12808,7 @@ CHAPTER XXIV
 DR. SEWARD’S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING
 
 
-This to Jonathan Harker.
+This to Thomas Harker.
 
 You are to stay with your dear Madam Mina. We shall go to make our
 search--if I can call it so, for it is not search but knowing, and we
@@ -12841,7 +12841,7 @@ to watch over His children. Therefore be of much comfort till we return.
 VAN HELSING.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _4 October._--When I read to Mina, Van Helsing’s message in the
 phonograph, the poor girl brightened up considerably. Already the
@@ -12871,7 +12871,7 @@ for me again. It is now three o’clock.
 _Mina Harker’s Journal._
 
 _5 October, 5 p. m._--Our meeting for report. Present: Professor Van
-Helsing, Lord Godalming, Dr. Seward, Mr. Quincey Morris, Jonathan
+Helsing, Lord Godalming, Dr. Seward, Mr. Quincey Morris, Thomas
 Harker, Mina Harker.
 
 Dr. Van Helsing described what steps were taken during the day to
@@ -12974,7 +12974,7 @@ When Dr. Van Helsing had done speaking, I asked him if he were certain
 that the Count had remained on board the ship. He replied: “We have the
 best proof of that: your own evidence, when in the hypnotic trance this
 morning.” I asked him again if it were really necessary that they should
-pursue the Count, for oh! I dread Jonathan leaving me, and I know that
+pursue the Count, for oh! I dread Thomas leaving me, and I know that
 he would surely go if the others went. He answered in growing passion,
 at first quietly. As he went on, however, he grew more angry and more
 forceful, till in the end we could not but see wherein was at least some
@@ -13214,7 +13214,7 @@ significantly and coughed. For answer he put his finger on his lips and
 turned away.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _5 October, afternoon._--For some time after our meeting this morning I
 could not think. The new phases of things leave my mind in a state of
@@ -13235,7 +13235,7 @@ evening drew on, and the earth took its shadows from the sun sinking
 lower, the silence of the room grew more and more solemn to me. All at
 once Mina opened her eyes, and looking at me tenderly, said:--
 
-“Jonathan, I want you to promise me something on your word of honour. A
+“Thomas, I want you to promise me something on your word of honour. A
 promise made to me, but made holily in God’s hearing, and not to be
 broken though I should go down on my knees and implore you with bitter
 tears. Quick, you must make it to me at once.”
@@ -13305,7 +13305,7 @@ As she replied, she raised her finger and pointed to her forehead:--
 “I know. That is why I must go. I can tell you now, whilst the sun is
 coming up; I may not be able again. I know that when the Count wills me
 I must go. I know that if he tells me to come in secret, I must come by
-wile; by any device to hoodwink--even Jonathan.” God saw the look that
+wile; by any device to hoodwink--even Thomas.” God saw the look that
 she turned on me as she spoke, and if there be indeed a Recording Angel
 that look is noted to her everlasting honour. I could only clasp her
 hand. I could not speak; my emotion was too great for even the relief of
@@ -13391,7 +13391,7 @@ CHAPTER XXV
 DR. SEWARD’S DIARY
 
 
-_11 October, Evening._--Jonathan Harker has asked me to note this, as he
+_11 October, Evening._--Thomas Harker has asked me to note this, as he
 says he is hardly equal to the task, and he wants an exact record kept.
 
 I think that none of us were surprised when we were asked to see Mrs.
@@ -13554,7 +13554,7 @@ relapse from her freedom of soul, did not seem so full of despair to any
 of us as we had dreaded.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _15 October, Varna._--We left Charing Cross on the morning of the 12th,
 got to Paris the same night, and took the places secured for us in the
@@ -13780,7 +13780,7 @@ Mrs. Harker.
 
 “How on earth do you know?” said Art.
 
-“You forget--or perhaps you do not know, though Jonathan does and so
+“You forget--or perhaps you do not know, though Thomas does and so
 does Dr. Van Helsing--that I am the train fiend. At home in Exeter I
 always used to make up the time-tables, so as to be helpful to my
 husband. I found it so useful sometimes, that I always make a study of
@@ -13797,7 +13797,7 @@ if we did have a special, it would probably not arrive as soon as our
 regular train. Moreover, we have something to prepare. We must think.
 Now let us organize. You, friend Arthur, go to the train and get the
 tickets and arrange that all be ready for us to go in the morning. Do
-you, friend Jonathan, go to the agent of the ship and get from him
+you, friend Thomas, go to the agent of the ship and get from him
 letters to the agent in Galatz, with authority to make search the ship
 just as it was here. Morris Quincey, you see the Vice-Consul, and get
 his aid with his fellow in Galatz and all he can do to make our way
@@ -13873,7 +13873,7 @@ at all; that be a whole thought, though so young that he is not yet
 strong to use his little wings. Nay, like the “Ugly Duck” of my friend
 Hans Andersen, he be no duck-thought at all, but a big swan-thought that
 sail nobly on big wings, when the time come for him to try them. See I
-read here what Jonathan have written:--
+read here what Thomas have written:--
 
 “That other of his race who, in a later age, again and again, brought
 his forces over The Great River into Turkey Land; who, when he was
@@ -14130,7 +14130,7 @@ ordered by telegraph, he being the one who could best be spared, since
 he does not speak any foreign language. The forces were distributed
 much as they had been at Varna, except that Lord Godalming went to the
 Vice-Consul, as his rank might serve as an immediate guarantee of some
-sort to the official, we being in extreme hurry. Jonathan and the two
+sort to the official, we being in extreme hurry. Thomas and the two
 doctors went to the shipping agent to learn particulars of the arrival
 of the _Czarina Catherine_.
 
@@ -14141,7 +14141,7 @@ Vice-Consul sick; so the routine work has been attended to by a clerk.
 He was very obliging, and offered to do anything in his power.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _30 October._--At nine o’clock Dr. Van Helsing, Dr. Seward, and I called
 on Messrs. Mackenzie & Steinkoff, the agents of the London firm of
@@ -14263,7 +14263,7 @@ up to the moment. I feel so grateful to the man who invented the
 me. I should have felt quite astray doing the work if I had to write
 with a pen....
 
-It is all done; poor dear, dear Jonathan, what he must have suffered,
+It is all done; poor dear, dear Thomas, what he must have suffered,
 what must he be suffering now. He lies on the sofa hardly seeming to
 breathe, and his whole body appears in collapse. His brows are knit; his
 face is drawn with pain. Poor fellow, maybe he is thinking, and I can
@@ -14401,7 +14401,7 @@ close to Dracula’s castle as can be got by water.
 
 _Mina Harker’s Journal--continued._
 
-When I had done reading, Jonathan took me in his arms and kissed me. The
+When I had done reading, Thomas took me in his arms and kissed me. The
 others kept shaking me by both hands, and Dr. Van Helsing said:--
 
 “Our dear Madam Mina is once more our teacher. Her eyes have been where
@@ -14436,14 +14436,14 @@ along. You must not be alone, Art. It may be necessary to fight the
 Slovaks, and a chance thrust--for I don’t suppose these fellows carry
 guns--would undo all our plans. There must be no chances, this time; we
 shall not rest until the Count’s head and body have been separated, and
-we are sure that he cannot re-incarnate.” He looked at Jonathan as he
-spoke, and Jonathan looked at me. I could see that the poor dear was
+we are sure that he cannot re-incarnate.” He looked at Thomas as he
+spoke, and Thomas looked at me. I could see that the poor dear was
 torn about in his mind. Of course he wanted to be with me; but then the
 boat service would, most likely, be the one which would destroy the ...
 the ... the ... Vampire. (Why did I hesitate to write the word?) He was
 silent awhile, and during his silence Dr. Van Helsing spoke:--
 
-“Friend Jonathan, this is to you for twice reasons. First, because you
+“Friend Thomas, this is to you for twice reasons. First, because you
 are young and brave and can fight, and all energies may be needed at the
 last; and again that it is your right to destroy him--that--which has
 wrought such woe to you and yours. Be not afraid for Madam Mina; she
@@ -14452,19 +14452,19 @@ once; and I am not used to ride so long or to pursue as need be, or to
 fight with lethal weapons. But I can be of other service; I can fight in
 other way. And I can die, if need be, as well as younger men. Now let
 me say that what I would is this: while you, my Lord Godalming and
-friend Jonathan go in your so swift little steamboat up the river, and
+friend Thomas go in your so swift little steamboat up the river, and
 whilst John and Quincey guard the bank where perchance he might be
 landed, I will take Madam Mina right into the heart of the enemy’s
 country. Whilst the old fox is tied in his box, floating on the running
 stream whence he cannot escape to land--where he dares not raise the lid
 of his coffin-box lest his Slovak carriers should in fear leave him to
-perish--we shall go in the track where Jonathan went,--from Bistritz
+perish--we shall go in the track where Thomas went,--from Bistritz
 over the Borgo, and find our way to the Castle of Dracula. Here, Madam
 Mina’s hypnotic power will surely help, and we shall find our way--all
 dark and unknown otherwise--after the first sunrise when we are near
 that fateful place. There is much to be done, and other places to be
 made sanctify, so that that nest of vipers be obliterated.” Here
-Jonathan interrupted him hotly:--
+Thomas interrupted him hotly:--
 
 “Do you mean to say, Professor Van Helsing, that you would bring Mina,
 in her sad case and tainted as she is with that devil’s illness, right
@@ -14484,12 +14484,12 @@ us all:--
 “Oh, my friend, it is because I would save Madam Mina from that awful
 place that I would go. God forbid that I should take her into that
 place. There is work--wild work--to be done there, that her eyes may not
-see. We men here, all save Jonathan, have seen with their own eyes what
+see. We men here, all save Thomas, have seen with their own eyes what
 is to be done before that place can be purify. Remember that we are in
 terrible straits. If the Count escape us this time--and he is strong and
 subtle and cunning--he may choose to sleep him for a century, and then
 in time our dear one”--he took my hand--“would come to him to keep him
-company, and would be as those others that you, Jonathan, saw. You have
+company, and would be as those others that you, Thomas, saw. You have
 told us of their gloating lips; you heard their ribald laugh as they
 clutched the moving bag that the Count threw to them. You shudder; and
 well may it be. Forgive me that I make you so much pain, but it is
@@ -14497,7 +14497,7 @@ necessary. My friend, is it not a dire need for the which I am giving,
 possibly my life? If it were that any one went into that place to stay,
 it is I who would have to go to keep them company.”
 
-“Do as you will,” said Jonathan, with a sob that shook him all over, “we
+“Do as you will,” said Thomas, with a sob that shook him all over, “we
 are in the hands of God!”
 
        *       *       *       *       *
@@ -14511,7 +14511,7 @@ that both he and Mr. Morris, who also has plenty of money, are willing
 to spend it so freely. For if they did not, our little expedition could
 not start, either so promptly or so well equipped, as it will within
 another hour. It is not three hours since it was arranged what part each
-of us was to do; and now Lord Godalming and Jonathan have a lovely steam
+of us was to do; and now Lord Godalming and Thomas have a lovely steam
 launch, with steam up ready to start at a moment’s notice. Dr. Seward
 and Mr. Morris have half a dozen good horses, well appointed. We have
 all the maps and appliances of various kinds that can be had. Professor
@@ -14521,7 +14521,7 @@ bringing a good deal of ready money, as we are to buy a carriage and
 horses. We shall drive ourselves, for we have no one whom we can trust
 in the matter. The Professor knows something of a great many languages,
 so we shall get on all right. We have all got arms, even for me a
-large-bore revolver; Jonathan would not be happy unless I was armed like
+large-bore revolver; Thomas would not be happy unless I was armed like
 the rest. Alas! I cannot carry one arm that the rest do; the scar on my
 forehead forbids that. Dear Dr. Van Helsing comforts me by telling me
 that I am fully armed as there may be wolves; the weather is getting
@@ -14536,7 +14536,7 @@ his look is a warning. There must be no tears now--unless it may be that
 God will let them fall in gladness.
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _October 30. Night._--I am writing this in the light from the furnace
 door of the steam launch: Lord Godalming is firing up. He is an
@@ -14665,7 +14665,7 @@ horses. He says that he will later on try to buy additional horses, so
 that we may be able to change them on the way. We have something more
 than 70 miles before us. The country is lovely, and most interesting; if
 only we were under different conditions, how delightful it would be to
-see it all. If Jonathan and I were driving through it alone what a
+see it all. If Thomas and I were driving through it alone what a
 pleasure it would be. To stop and see people, and learn something of
 their life, and to fill our minds and memories with all the colour and
 picturesqueness of the whole wild, beautiful country and the quaint
@@ -14687,7 +14687,7 @@ our being cold.
 We shall soon be off. I am afraid to think what may happen to us. We are
 truly in the hands of God. He alone knows what may be, and I pray Him,
 with all the strength of my sad and humble soul, that He will watch over
-my beloved husband; that whatever may happen, Jonathan may know that I
+my beloved husband; that whatever may happen, Thomas may know that I
 loved him and honoured him more than I can say, and that my latest and
 truest thought will be always for him.
 
@@ -14721,7 +14721,7 @@ Professor seems tireless; all day he would not take any rest, though he
 made me sleep for a long spell. At sunset time he hypnotised me, and he
 says that I answered as usual “darkness, lapping water and creaking
 wood”; so our enemy is still on the river. I am afraid to think of
-Jonathan, but somehow I have now no fear for him, or for myself. I write
+Thomas, but somehow I have now no fear for him, or for myself. I write
 this whilst we wait in a farmhouse for the horses to be got ready. Dr.
 Van Helsing is sleeping. Poor dear, he looks very tired and old and
 grey, but his mouth is set as firmly as a conqueror’s; even in his sleep
@@ -14803,7 +14803,7 @@ guiding power be in her manifested, for she point to a road and say:--
 “How know you it?” I ask.
 
 “Of course I know it,” she answer, and with a pause, add: “Have not my
-Jonathan travelled it and wrote of his travel?”
+Thomas travelled it and wrote of his travel?”
 
 At first I think somewhat strange, but soon I see that there be only one
 such by-road. It is used but little, and very different from the coach
@@ -14813,7 +14813,7 @@ more of use.
 So we came down this road; when we meet other ways--not always were we
 sure that they were roads at all, for they be neglect and light snow
 have fallen--the horses know and they only. I give rein to them, and
-they go on so patient. By-and-by we find all the things which Jonathan
+they go on so patient. By-and-by we find all the things which Thomas
 have note in that wonderful diary of him. Then we go on for long, long
 hours and hours. At the first, I tell Madam Mina to sleep; she try, and
 she succeed. She sleep all the time; till at the last, I feel myself to
@@ -14878,7 +14878,7 @@ imperfect kind there was, I held down my head and slept. Again I waked
 with a sense of guilt and of time passed, and found Madam Mina still
 sleeping, and the sun low down. But all was indeed changed; the frowning
 mountains seemed further away, and we were near the top of a
-steep-rising hill, on summit of which was such a castle as Jonathan tell
+steep-rising hill, on summit of which was such a castle as Thomas tell
 of in his diary. At once I exulted and feared; for now, for good or ill,
 the end was near.
 
@@ -14927,7 +14927,7 @@ whinnied and cowered, as if in terror of the worst. I began to
 fear--horrible fears; but then came to me the sense of safety in that
 ring wherein I stood. I began, too, to think that my imaginings were of
 the night, and the gloom, and the unrest that I have gone through, and
-all the terrible anxiety. It was as though my memories of all Jonathan’s
+all the terrible anxiety. It was as though my memories of all Thomas’s
 horrid experience were befooling me; for the snow flakes and the mist
 began to wheel and circle round, till I could get as though a shadowy
 glimpse of those women that would have kissed him. And then the horses
@@ -14952,12 +14952,12 @@ Then, alas! I knew. Did I not, I would soon have learned, for the
 wheeling figures of mist and snow came closer, but keeping ever without
 the Holy circle. Then they began to materialise till--if God have not
 take away my reason, for I saw it through my eyes--there were before me
-in actual flesh the same three women that Jonathan saw in the room, when
+in actual flesh the same three women that Thomas saw in the room, when
 they would have kissed his throat. I knew the swaying round forms, the
 bright hard eyes, the white teeth, the ruddy colour, the voluptuous
 lips. They smiled ever at poor dear Madam Mina; and as their laugh came
 through the silence of the night, they twined their arms and pointed to
-her, and said in those so sweet tingling tones that Jonathan said were
+her, and said in those so sweet tingling tones that Thomas said were
 of the intolerable sweetness of the water-glasses:--
 
 “Come, sister. Come to us. Come! Come!” In fear I turned to my poor
@@ -14995,7 +14995,7 @@ work. Madam Mina still sleeps; and, God be thanked! she is calm in her
 sleep....
 
 
-_Jonathan Harker’s Journal._
+_Thomas Harker’s Journal._
 
 _4 November, evening._--The accident to the launch has been a terrible
 thing for us. Only for it we should have overtaken the boat long ago;
@@ -15028,7 +15028,7 @@ Madam Mina sleeping within the Holy circle, I took my way to the castle.
 The blacksmith hammer which I took in the carriage from Veresti was
 useful; though the doors were all open I broke them off the rusty
 hinges, lest some ill-intent or ill-chance should close them, so that
-being entered I might not get out. Jonathan’s bitter experience served
+being entered I might not get out. Thomas’s bitter experience served
 me here. By memory of his diary I found my way to the old chapel, for I
 knew that here my work lay. The air was oppressive; it seemed as if
 there was some sulphurous fume, which at times made me dizzy. Either
@@ -15075,7 +15075,7 @@ away tomb-tops one other of the sisters, the other dark one. I dared not
 pause to look on her as I had on her sister, lest once more I should
 begin to be enthrall; but I go on searching until, presently, I find in
 a high great tomb as if made to one much beloved that other fair sister
-which, like Jonathan I had seen to gather herself out of the atoms of
+which, like Thomas I had seen to gather herself out of the atoms of
 the mist. She was so fair to look on, so radiantly beautiful, so
 exquisitely voluptuous, that the very instinct of man in me, which calls
 some of my sex to love and to protect one of hers, made my head whirl
@@ -15140,7 +15140,7 @@ coming to meet us.
 _Mina Harker’s Journal._
 
 _6 November._--It was late in the afternoon when the Professor and I
-took our way towards the east whence I knew Jonathan was coming. We did
+took our way towards the east whence I knew Thomas was coming. We did
 not go fast, though the way was steeply downhill, for we had to take
 heavy rugs and wraps with us; we dared not face the possibility of being
 left without warmth in the cold and the snow. We had to take some of our
@@ -15194,284 +15194,3 @@ well I knew that at sunset the Thing, which was till then imprisoned
 there, would take new freedom and could in any of many forms elude all
 pursuit. In fear I turned to the Professor; to my consternation,
 however, he was not there. An instant later, I saw him below me. Round
-the rock he had drawn a circle, such as we had found shelter in last
-night. When he had completed it he stood beside me again, saying:--
-
-“At least you shall be safe here from _him_!” He took the glasses from
-me, and at the next lull of the snow swept the whole space below us.
-“See,” he said, “they come quickly; they are flogging the horses, and
-galloping as hard as they can.” He paused and went on in a hollow
-voice:--
-
-“They are racing for the sunset. We may be too late. God’s will be
-done!” Down came another blinding rush of driving snow, and the whole
-landscape was blotted out. It soon passed, however, and once more his
-glasses were fixed on the plain. Then came a sudden cry:--
-
-“Look! Look! Look! See, two horsemen follow fast, coming up from the
-south. It must be Quincey and John. Take the glass. Look before the snow
-blots it all out!” I took it and looked. The two men might be Dr. Seward
-and Mr. Morris. I knew at all events that neither of them was Jonathan.
-At the same time I _knew_ that Jonathan was not far off; looking around
-I saw on the north side of the coming party two other men, riding at
-break-neck speed. One of them I knew was Jonathan, and the other I took,
-of course, to be Lord Godalming. They, too, were pursuing the party with
-the cart. When I told the Professor he shouted in glee like a schoolboy,
-and, after looking intently till a snow fall made sight impossible, he
-laid his Winchester rifle ready for use against the boulder at the
-opening of our shelter. “They are all converging,” he said. “When the
-time comes we shall have gypsies on all sides.” I got out my revolver
-ready to hand, for whilst we were speaking the howling of wolves came
-louder and closer. When the snow storm abated a moment we looked again.
-It was strange to see the snow falling in such heavy flakes close to us,
-and beyond, the sun shining more and more brightly as it sank down
-towards the far mountain tops. Sweeping the glass all around us I could
-see here and there dots moving singly and in twos and threes and larger
-numbers--the wolves were gathering for their prey.
-
-Every instant seemed an age whilst we waited. The wind came now in
-fierce bursts, and the snow was driven with fury as it swept upon us in
-circling eddies. At times we could not see an arm’s length before us;
-but at others, as the hollow-sounding wind swept by us, it seemed to
-clear the air-space around us so that we could see afar off. We had of
-late been so accustomed to watch for sunrise and sunset, that we knew
-with fair accuracy when it would be; and we knew that before long the
-sun would set. It was hard to believe that by our watches it was less
-than an hour that we waited in that rocky shelter before the various
-bodies began to converge close upon us. The wind came now with fiercer
-and more bitter sweeps, and more steadily from the north. It seemingly
-had driven the snow clouds from us, for, with only occasional bursts,
-the snow fell. We could distinguish clearly the individuals of each
-party, the pursued and the pursuers. Strangely enough those pursued did
-not seem to realise, or at least to care, that they were pursued; they
-seemed, however, to hasten with redoubled speed as the sun dropped lower
-and lower on the mountain tops.
-
-Closer and closer they drew. The Professor and I crouched down behind
-our rock, and held our weapons ready; I could see that he was determined
-that they should not pass. One and all were quite unaware of our
-presence.
-
-All at once two voices shouted out to: “Halt!” One was my Jonathan’s,
-raised in a high key of passion; the other Mr. Morris’ strong resolute
-tone of quiet command. The gypsies may not have known the language, but
-there was no mistaking the tone, in whatever tongue the words were
-spoken. Instinctively they reined in, and at the instant Lord Godalming
-and Jonathan dashed up at one side and Dr. Seward and Mr. Morris on the
-other. The leader of the gypsies, a splendid-looking fellow who sat his
-horse like a centaur, waved them back, and in a fierce voice gave to his
-companions some word to proceed. They lashed the horses which sprang
-forward; but the four men raised their Winchester rifles, and in an
-unmistakable way commanded them to stop. At the same moment Dr. Van
-Helsing and I rose behind the rock and pointed our weapons at them.
-Seeing that they were surrounded the men tightened their reins and drew
-up. The leader turned to them and gave a word at which every man of the
-gypsy party drew what weapon he carried, knife or pistol, and held
-himself in readiness to attack. Issue was joined in an instant.
-
-The leader, with a quick movement of his rein, threw his horse out in
-front, and pointing first to the sun--now close down on the hill
-tops--and then to the castle, said something which I did not understand.
-For answer, all four men of our party threw themselves from their horses
-and dashed towards the cart. I should have felt terrible fear at seeing
-Jonathan in such danger, but that the ardour of battle must have been
-upon me as well as the rest of them; I felt no fear, but only a wild,
-surging desire to do something. Seeing the quick movement of our
-parties, the leader of the gypsies gave a command; his men instantly
-formed round the cart in a sort of undisciplined endeavour, each one
-shouldering and pushing the other in his eagerness to carry out the
-order.
-
-In the midst of this I could see that Jonathan on one side of the ring
-of men, and Quincey on the other, were forcing a way to the cart; it was
-evident that they were bent on finishing their task before the sun
-should set. Nothing seemed to stop or even to hinder them. Neither the
-levelled weapons nor the flashing knives of the gypsies in front, nor
-the howling of the wolves behind, appeared to even attract their
-attention. Jonathan’s impetuosity, and the manifest singleness of his
-purpose, seemed to overawe those in front of him; instinctively they
-cowered, aside and let him pass. In an instant he had jumped upon the
-cart, and, with a strength which seemed incredible, raised the great
-box, and flung it over the wheel to the ground. In the meantime, Mr.
-Morris had had to use force to pass through his side of the ring of
-Szgany. All the time I had been breathlessly watching Jonathan I had,
-with the tail of my eye, seen him pressing desperately forward, and had
-seen the knives of the gypsies flash as he won a way through them, and
-they cut at him. He had parried with his great bowie knife, and at first
-I thought that he too had come through in safety; but as he sprang
-beside Jonathan, who had by now jumped from the cart, I could see that
-with his left hand he was clutching at his side, and that the blood was
-spurting through his fingers. He did not delay notwithstanding this, for
-as Jonathan, with desperate energy, attacked one end of the chest,
-attempting to prize off the lid with his great Kukri knife, he attacked
-the other frantically with his bowie. Under the efforts of both men the
-lid began to yield; the nails drew with a quick screeching sound, and
-the top of the box was thrown back.
-
-By this time the gypsies, seeing themselves covered by the Winchesters,
-and at the mercy of Lord Godalming and Dr. Seward, had given in and made
-no resistance. The sun was almost down on the mountain tops, and the
-shadows of the whole group fell long upon the snow. I saw the Count
-lying within the box upon the earth, some of which the rude falling from
-the cart had scattered over him. He was deathly pale, just like a waxen
-image, and the red eyes glared with the horrible vindictive look which I
-knew too well.
-
-As I looked, the eyes saw the sinking sun, and the look of hate in them
-turned to triumph.
-
-But, on the instant, came the sweep and flash of Jonathan’s great knife.
-I shrieked as I saw it shear through the throat; whilst at the same
-moment Mr. Morris’s bowie knife plunged into the heart.
-
-It was like a miracle; but before our very eyes, and almost in the
-drawing of a breath, the whole body crumbled into dust and passed from
-our sight.
-
-I shall be glad as long as I live that even in that moment of final
-dissolution, there was in the face a look of peace, such as I never
-could have imagined might have rested there.
-
-The Castle of Dracula now stood out against the red sky, and every stone
-of its broken battlements was articulated against the light of the
-setting sun.
-
-The gypsies, taking us as in some way the cause of the extraordinary
-disappearance of the dead man, turned, without a word, and rode away as
-if for their lives. Those who were unmounted jumped upon the
-leiter-wagon and shouted to the horsemen not to desert them. The wolves,
-which had withdrawn to a safe distance, followed in their wake, leaving
-us alone.
-
-Mr. Morris, who had sunk to the ground, leaned on his elbow, holding his
-hand pressed to his side; the blood still gushed through his fingers. I
-flew to him, for the Holy circle did not now keep me back; so did the
-two doctors. Jonathan knelt behind him and the wounded man laid back his
-head on his shoulder. With a sigh he took, with a feeble effort, my hand
-in that of his own which was unstained. He must have seen the anguish of
-my heart in my face, for he smiled at me and said:--
-
-“I am only too happy to have been of any service! Oh, God!” he cried
-suddenly, struggling up to a sitting posture and pointing to me, “It was
-worth for this to die! Look! look!”
-
-The sun was now right down upon the mountain top, and the red gleams
-fell upon my face, so that it was bathed in rosy light. With one impulse
-the men sank on their knees and a deep and earnest “Amen” broke from all
-as their eyes followed the pointing of his finger. The dying man
-spoke:--
-
-“Now God be thanked that all has not been in vain! See! the snow is not
-more stainless than her forehead! The curse has passed away!”
-
-And, to our bitter grief, with a smile and in silence, he died, a
-gallant gentleman.
-
-
-
-
-                                  NOTE
-
-
-Seven years ago we all went through the flames; and the happiness of
-some of us since then is, we think, well worth the pain we endured. It
-is an added joy to Mina and to me that our boy’s birthday is the same
-day as that on which Quincey Morris died. His mother holds, I know, the
-secret belief that some of our brave friend’s spirit has passed into
-him. His bundle of names links all our little band of men together; but
-we call him Quincey.
-
-In the summer of this year we made a journey to Transylvania, and went
-over the old ground which was, and is, to us so full of vivid and
-terrible memories. It was almost impossible to believe that the things
-which we had seen with our own eyes and heard with our own ears were
-living truths. Every trace of all that had been was blotted out. The
-castle stood as before, reared high above a waste of desolation.
-
-When we got home we were talking of the old time--which we could all
-look back on without despair, for Godalming and Seward are both happily
-married. I took the papers from the safe where they had been ever since
-our return so long ago. We were struck with the fact, that in all the
-mass of material of which the record is composed, there is hardly one
-authentic document; nothing but a mass of typewriting, except the later
-note-books of Mina and Seward and myself, and Van Helsing’s memorandum.
-We could hardly ask any one, even did we wish to, to accept these as
-proofs of so wild a story. Van Helsing summed it all up as he said, with
-our boy on his knee:--
-
-“We want no proofs; we ask none to believe us! This boy will some day
-know what a brave and gallant woman his mother is. Already he knows her
-sweetness and loving care; later on he will understand how some men so
-loved her, that they did dare much for her sake.”
-
-JONATHAN HARKER.
-
-                                THE END
-
-       *       *       *       *       *
-
-                       _There’s More to Follow!_
-
-     More stories of the sort you like; more, probably, by the author of
-     this one; more than 500 titles all told by writers of world-wide
-     reputation, in the Authors’ Alphabetical List which you will find
-     on the _reverse side_ of the wrapper of this book. Look it over
-     before you lay it aside. There are books here you are sure to
-     want--some, possibly, that you have _always_ wanted.
-
-     It is a _selected_ list; every book in it has achieved a certain
-     measure of _success_.
-
-     The Grosset & Dunlap list is not only the greatest Index of Good
-     Fiction available, it represents in addition a generally accepted
-     Standard of Value. It will pay you to
-
-                _Look on the Other Side of the Wrapper!_
-
-     _In case the wrapper is lost write to the publishers for a complete
-     catalog_
-
-       *       *       *       *       *
-
-DETECTIVE STORIES BY J. S. FLETCHER
-
-May be had wherever books are sold. Ask for Grosset & Dunlap’s list
-
-
-THE SECRET OF THE BARBICAN
-
-THE ANNEXATION SOCIETY
-
-THE WOLVES AND THE LAMB
-
-GREEN INK
-
-THE KING versus WARGRAVE
-
-THE LOST MR. LINTHWAITE
-
-THE MILL OF MANY WINDOWS
-
-THE HEAVEN-KISSED HILL
-
-THE MIDDLE TEMPLE MURDER
-
-RAVENSDENE COURT
-
-THE RAYNER-SLADE AMALGAMATION
-
-THE SAFETY PIN
-
-THE SECRET WAY
-
-THE VALLEY OF HEADSTRONG MEN
-
-_Ask for Complete free list of G. & D. Popular Copyrighted Fiction_
-
-GROSSET & DUNLAP, _Publishers_, NEW YORK
-
-
-
-
-
-
